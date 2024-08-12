@@ -1,8 +1,8 @@
 {
-  "short_name": "",
-  "name": "",
+  "short_name": "Antonio Cardeña",
+  "name": "Antonio Carlos Cardeña Matamoros",
   "icons": [{
-    "src": "icon.png",
+    "src": "lobo.png",
     "type": "image/png",
     "sizes": "192x192"
   }],
